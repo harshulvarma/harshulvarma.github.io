@@ -3,7 +3,7 @@
 ---
 
 
-[Loyalty in Github Repos](https://nbviewer.jupyter.org/github/harshulvarma/Portfolio/blob/master/LoyaltyInGitHub.ipynb)
+[Loyalty in GitHub Repositories](https://github.com/harshulvarma/Loyalty-in-GitHub)
 <img src="images/loyal.png?raw=true"/>
 
 ---
