@@ -31,12 +31,12 @@
 ---
 
 [Playerbase sentiment after Video Game Updates](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/fn.png?raw=true"/>
 
 ---
 
 [Earth and CO2 over the years](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/co2.png?raw=true"/>
 
 ---
 
