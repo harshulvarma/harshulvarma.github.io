@@ -2,6 +2,8 @@
 
 ---
 
+[Project 1 Title](/sample_page)
+
 
 [Loyalty in GitHub Repositories](/sample_page)
 <img src="images/loyal.png?raw=true"/>
