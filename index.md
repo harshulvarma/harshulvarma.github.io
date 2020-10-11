@@ -2,10 +2,7 @@
 
 ---
 
-[Project 1 Title](/sample_page)
-
-
-[Loyalty in GitHub Repositories](/sample_page)
+[Loyalty in GitHub Repositories](/loyalty_in_github)
 <img src="images/loyal.png?raw=true"/>
 
 ---
