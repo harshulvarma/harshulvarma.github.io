@@ -3,31 +3,43 @@
 ---
 
 
-[Predicting Loyalty in Github Repos](https://nbviewer.jupyter.org/github/harshulvarma/Portfolio/blob/master/LoyaltyInGitHub.ipynb)
+[Loyalty in Github Repos](https://nbviewer.jupyter.org/github/harshulvarma/Portfolio/blob/master/LoyaltyInGitHub.ipynb)
 <img src="images/loyal.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Predicting Air Pollution Levels](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Finding Similiar Neighbourhoods in Toronto](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[Health Lifestyle Prediction App](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
+[Customer Churn Key Drivers and Prediction](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
+---
 
+[Pneumonia Detection in X-Ray Images](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+
+[Playerbase sentiment after Video Game Updates](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+
+[Earth and CO2 over the years](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
