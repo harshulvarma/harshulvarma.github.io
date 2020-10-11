@@ -1,10 +1,9 @@
-## Portfolio
+## Data Science Portfolio
 
 ---
 
-### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Predicting Loyalty in Github Repos](https://nbviewer.jupyter.org/github/harshulvarma/Portfolio/blob/master/LoyaltyInGitHub.ipynb)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
