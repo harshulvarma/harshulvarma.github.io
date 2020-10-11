@@ -3,7 +3,7 @@
 ---
 
 
-[Loyalty in GitHub Repositories](https://github.com/harshulvarma/Loyalty-in-GitHub)
+[Loyalty in GitHub Repositories](/loyalty_in_github)
 <img src="images/loyal.png?raw=true"/>
 
 ---
