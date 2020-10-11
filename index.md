@@ -4,7 +4,7 @@
 
 
 [Predicting Loyalty in Github Repos](https://nbviewer.jupyter.org/github/harshulvarma/Portfolio/blob/master/LoyaltyInGitHub.ipynb)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/loyal.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
