@@ -1,10 +1,10 @@
-# Loyalty in GitHub Repositories 
+## Loyalty in GitHub Repositories 
 
-**Jupyter Notebook Link:** <https://nbviewer.jupyter.org/github/harshulvarma/Loyalty-in-GitHub/blob/main/loyalty_in_github.ipynb>
+*Jupyter Notebook Link:* <https://nbviewer.jupyter.org/github/harshulvarma/Loyalty-in-GitHub/blob/main/loyalty_in_github.ipynb>
 
-**GitHub Repository Link:** <https://github.com/harshulvarma/Loyalty-in-GitHub>
+*GitHub Repository Link:* <https://github.com/harshulvarma/Loyalty-in-GitHub>
 
-## Overview
+### Overview
 
 The goal of this project was to predict developer loyalty in repositories on GitHub and find out key difference between loyal or unloyal repositories. I wanted to find out whether loyalty is manifested in developer behaviour or is a repository trait. In order to achieve this anlaysis I reproduced the research paper analysis and feature engineering using Loyalty in Online Communites paper (accessible here: <https://arxiv.org/abs/1703.03386>)
 
@@ -21,7 +21,7 @@ Next, I created following features for each developer based on the analysis:
 
 And finally using the above features a machine learning pipeline was created using Random Forest to predict whether a given developer is loyal or not with 0.9 AUC.
 
-## Tools Utilised
+### Tools Utilised
 - Google BigQuery
 - Spark SQL
 - PySpark
