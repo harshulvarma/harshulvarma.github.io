@@ -3,7 +3,7 @@
 ---
 
 
-[Loyalty in GitHub Repositories](/loyalty_in_github)
+[Loyalty in GitHub Repositories](/sample_page)
 <img src="images/loyal.png?raw=true"/>
 
 ---
