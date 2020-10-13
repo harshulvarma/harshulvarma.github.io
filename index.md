@@ -12,27 +12,28 @@
 <img src="images/pollution.png?raw=true"/>
 
 ---
-### [Similiar Neighbourhoods in Toronto](http://example.com/)
+### [Similiar Neighbourhoods in Toronto](/neighbourhoods)
 *Finding similiar neighbourhoods in Toronto based on venues, demographics and economic data*
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/neighbourhoods.jpg?raw=true"/>
 
 ---
 
-### [Health Lifestyle Prediction App](http://example.com/)
+### [Health Lifestyle Prediction App](/health)
 *Predicting Health Lifestyle of a user based on BMI, Heartrate and VO2*
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/health.png?raw=true"/>
 
 ---
 
-### [Customer Churn Key Drivers and Prediction](http://example.com/)
+### [Customer Churn Key Drivers and Prediction](/churn)
 *Identifying relationship between key variables and churn*
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/churn.png?raw=true"/>
 
 ---
 
-### [Pneumonia Detection in X-Ray Images](http://example.com/)
+### [Pneumonia Detection in X-Ray Images](/xray)
 *Classifying X-Ray Images with Pneumonia*
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/xray.png?raw=true"/>
+<img src="images/xray2.png?raw=true"/>
 
 ---
 
