@@ -42,7 +42,7 @@
 
 ---
 
-### [Earth and CO2 over the years](/co2)
+### [CO2 and the World](/co2)
 *How has CO2 changed over the years on Earth?*
 <img src="images/co2.png?raw=true"/>
 
