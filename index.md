@@ -20,7 +20,7 @@
 
 ### [Health Lifestyle Prediction App](/health)
 *Predicting Health Lifestyle of a user based on BMI, Heartrate and VO2*
-<img src="images/health.png?raw=true"/>
+<img src="images/health.PNG?raw=true"/>
 
 ---
 
