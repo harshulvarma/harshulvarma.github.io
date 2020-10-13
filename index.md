@@ -6,8 +6,8 @@
 <img src="images/loyal.png?raw=true"/>
 
 ---
-[Predicting Air Pollution Levels](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Predicting Air Pollution ](/pollution)
+<img src="images/predictions.png?raw=true"/>
 
 ---
 [Finding Similiar Neighbourhoods in Toronto](http://example.com/)
