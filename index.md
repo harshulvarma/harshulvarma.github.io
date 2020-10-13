@@ -36,7 +36,7 @@
 
 ---
 
-### [Playerbase sentiment after Video Game Updates](http://example.com/)
+### [Playerbase sentiment after Video Game Updates](/fortnite)
 *Analysing impact of Fortnite mid season updates using Twitter*
 <img src="images/fn.png?raw=true"/>
 
