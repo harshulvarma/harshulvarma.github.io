@@ -8,6 +8,11 @@
 
 The goal of this project was to find out whether loyalty is manifested in developer behaviour or is a repository trait on GitHub. To do so I find out key differences between loyal or unloyal repositories and predict developer loyalty in repositories on GitHub. The inspiration of the project was to reproduce the analysis and feature engineering in the research paper of Loyalty in Online Communites paper (accessed here: <https://arxiv.org/abs/1703.03386>) where a similiar analysis was conducted on Reddit data.
 
+
+-	Analyzed loyalty of developers in 3TB+ GitHub Activity Data retrieved using Google BigQuery by reproducing research papers for feature engineering and building graph networks in NetworkX using Spark, SQL, and Python to find key differences in committing patterns of loyal and unloyal developers
+-	Predicted whether a developer is loyal or not by building a Random Forest Classifier in PySpark and MLlib on features extracted above and achieved 0.9 AUC
+
+
 ### Analysis of Loyal repositories and developers
 
 Loyal and Unloyal developers and repositories were firstly found using commiting patterns and operationalizing loyalty by computing their 'loyalty ratio' which was the ratio between loyal and vagrant devs for each repo. A loyal dev was determined as a dev whose 100% of the commits for a given month is towards only one repo with the thought process that commiting to different repos might lead to 'unloyalty' towards one repo. Using loyalty ratio distribution, loyal and unloyal repos were determined based on the top quantile and bottom quantile respecitvely.
