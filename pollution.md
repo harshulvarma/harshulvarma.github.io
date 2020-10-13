@@ -18,7 +18,7 @@ The goal of the project was to forecast multiple time series consisting of air p
   - Final prediction task was also chosen here to be 1 week ahead with data being grouped weekly
   - <https://nbviewer.jupyter.org/github/harshulvarma/air_pollution_prediction/blob/main/2_data_visualisation.ipynb>
   
-<img src="trend.png?raw=true"/>
+<img src="images/trend.png?raw=true"/>
 
 - **Decompostion and Stationarity**:
   - Determining Seasonality and Trend of time series via decomposition
@@ -56,7 +56,7 @@ Gradient Boosted Trees | 17.70 | 4.03
 LSTM RNN | 24.35 | 5.88
 FB Prophet | 27.73 | 3.44
 
-<img src="predictions.png?raw=true"/>
+<img src="images/pollution.png?raw=true"/>
 
 For future iterations, hyperparameter tuning can be conducted. Additionally since there seemed to be some correlation between the time series as well, they can be used as features for predictions in the ML models. Other features such as traffic flow, wind, temperation and humidity can be also utilised.
 
