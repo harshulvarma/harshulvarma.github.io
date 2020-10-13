@@ -7,7 +7,7 @@
 
 ---
 [Predicting Air Pollution ](/pollution)
-<img src="images/predictions.png?raw=true"/>
+<img src="images/pollution.png?raw=true"/>
 
 ---
 [Finding Similiar Neighbourhoods in Toronto](http://example.com/)
