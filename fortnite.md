@@ -1,4 +1,4 @@
-## Loyalty in GitHub Repositories 
+## Playerbase sentiment after Video Game updates
 
 *Tableau Link:* <https://public.tableau.com/profile/harshul.varma#!/vizhome/FortniteSentimentAnalysis/FNTweetsDashboard>
 
