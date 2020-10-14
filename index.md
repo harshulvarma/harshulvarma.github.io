@@ -40,7 +40,7 @@
 ### [Pneumonia Detection in X-Ray Images](/xray)
 *Classifying X-Ray Images with Pneumonia*
 
-<img src="images/xray.png?raw=true"/>
+<img src="images/xraymodel.png?raw=true"/>
 
 ---
 
