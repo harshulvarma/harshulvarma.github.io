@@ -8,16 +8,11 @@
 <img src="images/loyal.png?raw=true"/>
 
 ---
+
 ### [Predicting Air Pollution ](/pollution)
 *Forecasting multiple time series of air pollution levels*
 
 <img src="images/pollution.png?raw=true"/>
-
----
-### [Similiar Neighbourhoods in Toronto](/neighbourhoods)
-*Finding similiar neighbourhoods in Toronto based on venues, demographics and economic data*
-
-<img src="images/neighbourhoods.jpg?raw=true"/>
 
 ---
 
@@ -25,6 +20,13 @@
 *Predicting Health Lifestyle of a user based on BMI, Heartrate and VO2*
 
 <img src="images/health.PNG?raw=true"/>
+
+---
+
+### [Similiar Neighbourhoods in Toronto](/neighbourhoods)
+*Finding similiar neighbourhoods in Toronto based on venues, demographics and economic data*
+
+<img src="images/neighbourhoods.jpg?raw=true"/>
 
 ---
 
